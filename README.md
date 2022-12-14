@@ -18,6 +18,13 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
+## An Overview of EDA
+
+![image](https://user-images.githubusercontent.com/93086122/207615285-5533897a-fb0f-435b-a99a-ad85e651deb5.png)
+
+![image](https://user-images.githubusercontent.com/93086122/207615586-3e00a40a-74d7-4b69-8e8c-576e636a94e3.png)
+
+
 ## Attribute Information
 
 1) ID number
@@ -47,7 +54,6 @@ All feature values are recoded with four significant digits.
 Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
-
 
 
 ## Project Brief
